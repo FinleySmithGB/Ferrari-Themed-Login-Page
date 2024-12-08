@@ -10,7 +10,11 @@ body    {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #ED1C24;
+    background-image: url(f401.jpg);
+    background-repeat: no-repeat;
+    background-attachment: none;
+    background-position: center;
+    background-size: cover;
 }
 
 .wrapper    {
@@ -108,3 +112,4 @@ h5 a{
 h5 a:hover {
     text-decoration: underline;
 }
+
